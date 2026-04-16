@@ -8,7 +8,13 @@ public class Question03_1 {
 
 	public static void main(String[] args) {
 
-		// TODO:ここに実装
-		
+		int price = 30;
+		int totalBudget = 300;// TODO:ここに実装
+		int quantity = totalBudget / price;
+		System.out.println("商品の購入数は" + quantity + "個です。");
+
 	}
+
+	// TODO:ここに実装
+
 }
